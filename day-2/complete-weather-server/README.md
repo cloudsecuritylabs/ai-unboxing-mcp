@@ -30,7 +30,7 @@ uv sync
 
 In terminal:
 ```bash
-source .venv/bin/activate
+source .venv/Scripts/activate
 ```
 
 NOTE: To stop the virtual environment:
